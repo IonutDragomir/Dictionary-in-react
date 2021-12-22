@@ -1,7 +1,7 @@
 import {Header} from "./content/header"; 
 import {SideBox} from "./content/sideBox";
 import {InnerContainer} from "./content/innnerContainer";
-import {Dictionary} from "./content/dicitionary";
+import {DisplayWords} from "./content/dicitionary";
  
  
  
@@ -11,7 +11,7 @@ import {Dictionary} from "./content/dicitionary";
         <Header />
         <SideBox />
         <InnerContainer />
-        <Dictionary />
+        <DisplayWords />
       </div>
     );
   };
